@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadOrganization</key>
+        <string>Saint Joseph's University</string>
+        <key>PayloadDisplayName</key>
+        <string>DEPNotify</string>
+        <key>PayloadScope</key>
+        <string>System</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadRemovalDisallowed</key>
+        <true/>
+        <key>PayloadIdentifier</key>
+        <string>15FE4362-BC55-40C1-A531-346EEFE03DE9</string>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>PathToPlistFile</key>
+                <string>/Users/Shared/</string>
+                <key>registrationMainTitle</key>
+                <string>Name This Mac</string>
+                <key>registrationButtonLabel</key>
+                <string>Apply</string>
+                <key>textField1Label</key>
+                <string>Computer Name</string>
+                <key>textField1Placeholder</key>
+                <string>username-computertype</string>
+                <key>popupButton1Label</key>
+                <string>Computer Type</string>
+                <key>popupButton1Content</key>
+				<array>
+					<string>Faculty/Staff</string>
+					<string>General Use</string>
+					<string>Labs</string>
+					<string>Labs - Research</string>
+					<string>Podiums</string>
+					<string>Servers</string>
+				</array>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadDisplayName</key>
+                <string>DEPNotify</string>
+                <key>PayloadOrganization</key>
+                <string>Saint Joseph's University</string>
+                <key>PayloadType</key>
+                <string>menu.nomad.DEPNotify</string>
+                <key>PayloadIdentifier</key>
+                <string>4B9C160A-A4BE-4C34-B7CF-1480B7F6964D</string>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadDescription</key>
+                <string>DEPNotify</string>
+                <key>PayloadUUID</key>
+                <string>FD6D2F36-C757-4FB2-860B-5D5CB4D11FF4</string>
+            </dict>
+        </array>
+        <key>PayloadUUID</key>
+        <string>AA4027BD-4013-4B7D-B8E5-1693D5C60EDE</string>
+        <key>PayloadEnabled</key>
+        <true/>
+        <key>PayloadDescription</key>
+        <string>DEPNotify</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+    </dict>
+</plist>
