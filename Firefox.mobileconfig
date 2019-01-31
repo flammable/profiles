@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DisableAppUpdate</key>
+			<true/>
+			<key>EnterprisePoliciesEnabled</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Firefox settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Firefox</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.sju.firefox_config</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>org.mozilla.firefox</string>
+			<key>PayloadUUID</key>
+			<string>0A4F54E8-9B91-4221-BC56-BB53F900D45A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Firefox Configuration</string>
+	<key>PayloadDisplayName</key>
+	<string>Firefox</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.sju.firefox_config</string>
+	<key>PayloadOrganization</key>
+	<string>Saint Joseph's University</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E173BC09-B877-4ADA-AFA8-4BA95B176226</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
