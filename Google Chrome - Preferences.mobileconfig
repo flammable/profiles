@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DisablePrintPreview</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Google Chrome settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Google Chrome</string>
+			<key>PayloadIdentifier</key>
+			<string>edu.sju.GoogleChrome</string>
+			<key>PayloadOrganization</key>
+			<string>Saint Joseph's University</string>
+			<key>PayloadType</key>
+			<string>com.google.Chrome</string>
+			<key>PayloadUUID</key>
+			<string>1285F15F-5E57-4480-8139-7A615504F65D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Google Chrome configuration</string>
+	<key>PayloadDisplayName</key>
+	<string>Google Chrome</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.sju.GoogleChrome</string>
+	<key>PayloadOrganization</key>
+	<string>Saint Joseph's University</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AD308F31-615C-457F-92EF-1154DDF19FEF</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
