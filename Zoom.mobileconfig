@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadDisplayName</key>
+            <string>Zoom</string>
+            <key>PayloadEnabled</key>
+            <true/>
+            <key>PayloadIdentifier</key>
+            <string>edu.sju.zoom</string>
+            <key>PayloadType</key>
+            <string>us.zoom.config</string>
+            <key>PayloadUUID</key>
+            <string>CB1873FB-4C58-4160-B9EF-59277848ACAA</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>ZAutoSSOLogin</key>
+            <true/>
+            <key>forcessourl</key>
+            <string>https://sju.zoom.us</string>
+            <key>nogoogle</key>
+            <true/>
+            <key>nofacebook</key>
+            <true/>
+            <key>disableloginwithemail</key>
+            <true/>
+            <key>keepsignedin</key>
+            <true/>
+            <key>ZAutoUpdate</key>
+            <false/>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Zoom settings</string>
+    <key>PayloadDisplayName</key>
+    <string>Zoom</string>
+    <key>PayloadIdentifier</key>
+    <string>edu.sju.zoom</string>
+    <key>PayloadOrganization</key>
+    <string>Saint Joseph's University</string>
+    <key>PayloadRemovalDisallowed</key>
+    <true/>
+    <key>PayloadScope</key>
+    <string>System</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>D88084F2-CAB9-431A-8603-9E895BB6B099</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
